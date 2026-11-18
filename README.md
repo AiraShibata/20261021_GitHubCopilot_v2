@@ -1,1 +1,14 @@
-# 20261021_GitHubCopilot_v2
+# 本日のアジェンダ
+- 会社説明
+- 基本説明
+  - Git・GitHub基礎
+  - GitHub Copilot概要
+- ハンズオン
+  - 環境準備
+    - [GitHubアカウント作成](./環境構築/GitHubAccount.md)
+    - [VS Codeインストール](./環境構築/VSCodeinstall.md)
+    - [VS Code設定](./環境構築/VSCodeSettings.md)
+  - [ハンズオン① アプリ作成](./ハンズオン/HandsOn1.md)
+  - ハンズオン②機能追加
+  - ハンズオン③ コード理解
+- 振り返り・質疑
